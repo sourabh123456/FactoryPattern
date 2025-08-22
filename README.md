@@ -12,6 +12,6 @@ Promotes code scalability and maintainability
 
 
 ✅ **Benefits of Using Factory Pattern Here**
-**Scalability:** Easily add new notification types.
-**Decoupling:** Client code doesn’t need to know the concrete classes.
-**Maintainability:** Centralized creation logic.
+1. **Scalability:** Easily add new notification types.
+2. **Decoupling:** Client code doesn’t need to know the concrete classes.
+3. **Maintainability:** Centralized creation logic.
