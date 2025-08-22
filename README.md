@@ -5,13 +5,13 @@ Encapsulation of object creation
 Decouples client code from concrete classes.
 Promotes code scalability and maintainability
 
-✅ Benefits
-Loose coupling between client and concrete classes
-Centralized object creation
-Easier to introduce new types.
+✅ **Benefits**
+1. Loose coupling between client and concrete classes
+2. Centralized object creation
+3. Easier to introduce new types.
 
 
-✅ Benefits of Using Factory Pattern Here
-Scalability: Easily add new notification types.
-Decoupling: Client code doesn’t need to know the concrete classes.
-Maintainability: Centralized creation logic.
+✅ **Benefits of Using Factory Pattern Here**
+**Scalability:** Easily add new notification types.
+**Decoupling:** Client code doesn’t need to know the concrete classes.
+**Maintainability:** Centralized creation logic.
